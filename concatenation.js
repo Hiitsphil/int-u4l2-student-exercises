@@ -7,7 +7,7 @@ submitButton.addEventListener("click", function() {
     let mood = document.querySelector(".mood").value;
     let food = document.querySelector(".food-name").value;
     let birthYear = document.querySelector(".year").value;
-    let age = 2023 - birthYear; // update to 2024, if necessary
+    let age = 2025 - birthYear; // update to 2024, if necessary
     // 1. Declare a variable to save the value of the city the user is from.
     let city=document.querySelector(".city").value;
 
